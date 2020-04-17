@@ -1,0 +1,13 @@
+{
+  "serverInfo" : {
+    "database" : {
+      "nameType" : "mysql",
+      "user": "webhook",
+      "passWord" : "1qaz@WSXcde#"
+    },
+    "redis" :{
+      "host" : "localhost",
+      "port" : "6379"
+    }
+  }
+}
